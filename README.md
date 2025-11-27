@@ -5,8 +5,7 @@ A simple **Spring Boot CRUD REST API** for managing employees. This project demo
 * Building REST APIs with Spring Boot
 * CRUD operations (Create, Read, Update, Delete)
 * Layered architecture (Controller → Service → Repository)
-* Exception handling
-* H2/MySQL database integration
+* H2 database integration
 
 ---
 
