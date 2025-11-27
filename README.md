@@ -23,7 +23,7 @@ A simple **Spring Boot CRUD REST API** for managing employees. This project demo
 ## 🛠️ Tech Stack
 
 * **Java 17**
-* **Spring Boot** (Web, JPA, DevTools)
+* **Spring Boot** (Web, JPA)
 * **HikariCP** (default connection pool)
 * **H2/MySQL** database
 * **Maven**
