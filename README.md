@@ -53,8 +53,8 @@ src/main/java/com/example/employees
 ### 1️⃣ Clone the project
 
 ```
-git clone https://github.com/your-username/employee-crud-api.git
-cd employee-crud-api
+git clone https://github.com/butterflysly53/EmployeeCurdapp.git
+cd EmployeeCurdapp
 ```
 
 ### 2️⃣ Build & Run
